@@ -2,4 +2,4 @@
 
 Conteúdo academico e disponível para receber melhorias e contribuição 
 
-![tuxgod](tux.svg.png){ width: 200px; }
+![tuxgod](tux.svg.png)
