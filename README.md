@@ -1,2 +1,3 @@
-# estudo
-Repositório que partilha as minhas evoluções em Bootcamps e Cursos
+# Repositório destinado a partilhar evolução nos estudos DEV
+
+Conteúdo academico e disponível para receber melhorias e contribuição 
