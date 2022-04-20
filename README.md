@@ -1,5 +1,9 @@
-# Repositório destinado a partilhar evolução nos estudos DEV
+# Repositório destinado a partilhar a evolução nos estudos DEV
 
-Conteúdo academico e disponível para receber melhorias e contribuição 
+|******************************************************************|
+
+Conteúdo academico disponível para receber melhorias e contribuição
 
 ![tuxgod](tux.svg.png)
+
+|******************************************************************|
