@@ -2,4 +2,4 @@
 
 Conteúdo academico e disponível para receber melhorias e contribuição 
 
-![tuxgod](../images/tux.svg)
+![tuxgod](tux.svg.png)
